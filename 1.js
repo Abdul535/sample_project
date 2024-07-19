@@ -1,5 +1,1 @@
-hello
-world
-something
-the hacking school
-code
+console.log("Hello this is git")
